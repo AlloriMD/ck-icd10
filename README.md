@@ -4,7 +4,7 @@ This repository stores the data dictionary (codebook) describing an ICD-10-CM-ba
 
 Use of this ICD-10 Expansion for CL/P is explained in the following publication:
 
-`Allori AC, Cragan JD, Cassell CH, and Marcus JR. An ICD-10-based expanded code set for use in cleft lip/palate research and surveillance.  *Birth Defects Res Part A*. ACCEPTED, PENDING PUBLICATION.`
+Allori AC, Cragan JD, Cassell CH, and Marcus JR. An ICD-10-based expanded code set for use in cleft lip/palate research and surveillance.  *Birth Defects Res Part A*. ACCEPTED, PENDING PUBLICATION.
 
 
 ####Licensure:
